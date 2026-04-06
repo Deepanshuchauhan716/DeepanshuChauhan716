@@ -9,9 +9,6 @@
 ## 🛠️ Tech Stack
 - C | HTML | CSS | JavaScript (Learning)
 
-## 📊 GitHub Stats
-![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepanshuchauhan716&show_icons=true&theme=dark)
-
 ## 🏆 Projects
 - 🔥 [Daily Practice](https://github.com/Deepanshuchauhan716/Daily-Practice) - DSA practice
 - 🚀 [Web Projects](https://deepanshuchauhan716.github.io/Website_project/MY_PROJECT/PROTFOLIO_WEBSITE/) - HTML/CSS projects
