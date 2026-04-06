@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Deepanshu Chauhan
 
-<!--
-**Deepanshuchauhan716/DeepanshuChauhan716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 BCA Student | 2nd Semester
+- 💻 Learning **DSA & Web Development**
+- 📅 Daily coding since 2025
+- 🎯 Goal: 1000+ commits by 2027
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- C | HTML | CSS | JavaScript (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepanshuchauhan716&show_icons=true&theme=dark)
+
+## 🏆 Projects
+- 🔥 [Daily Practice](https://github.com/Deepanshuchauhan716/Daily-Practice) - DSA practice
+- 🚀 [Web Projects](https://deepanshuchauhan716.github.io/Website_project/MY_PROJECT/PROTFOLIO_WEBSITE/) - HTML/CSS projects
