@@ -11,4 +11,4 @@
 
 ## 🏆 Projects
 - 🔥 [Daily Practice](https://github.com/Deepanshuchauhan716/Daily-Practice) - DSA practice
-- 🚀 [Web Projects](https://deepanshuchauhan716.github.io/Website_project/MY_PROJECT/PROTFOLIO_WEBSITE/) - HTML/CSS projects
+- 🚀 [Web Projects]() - HTML/CSS projects
