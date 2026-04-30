@@ -11,4 +11,3 @@
 
 ## 🏆 Projects
 - 🔥 [Daily Practice](https://github.com/Deepanshuchauhan716/Daily-Practice) - DSA practice
-- 🚀 [Web Projects]() - HTML/CSS projects
