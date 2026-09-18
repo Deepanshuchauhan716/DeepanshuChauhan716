@@ -13,7 +13,7 @@ Currently, I'm learning **HTML, CSS & C++**, while practicing **JavaScript, DSA,
 * 🎓 BCA 3rd Semester Student
 * 🌐 Currently learning Web Development
 * 💻 Learning C++
-* ⚡ Practicing JavaScript
+* ⚡ Practicing JavaScript & React
 * 🧠 Working on Data Structures & Algorithms
 * 🔧 Using Git & GitHub for my projects
 * 🚀 I learn best by building things
