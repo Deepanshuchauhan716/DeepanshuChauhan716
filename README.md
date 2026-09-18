@@ -32,15 +32,18 @@ Currently, I'm learning **HTML, CSS & C++**, while practicing **JavaScript, DSA,
 
 Here are some of the projects I've built while learning:
 
-| Project                | What I Practiced       |
-| ---------------------- | ---------------------- |
-| 🌸 **FlowerShop**      | HTML & CSS             |
-| 🔐 **Login Page**      | HTML & CSS             |
-| 📝 **Notes App**       | HTML, CSS & JavaScript |
-| 👤 **Profile Page**    | HTML & CSS             |
-| 💼 **Portfolio**       | HTML & CSS             |
-| ✅ **ToDo List**        | HTML, CSS & JavaScript |
-| 📚 **Library Project** | HTML & CSS             |
+| Project                   | What I Practiced            |
+| ------------------------- | --------------------------- |
+| 🌸 **FlowerShop**         | HTML & CSS                  |
+| 🔐 **Login Page**         | HTML & CSS                  |
+| 🔑 **Login Page Project** | HTML, CSS & JavaScript      |
+| 📝 **Notes App**          | HTML, CSS & JavaScript      |
+| 👤 **Profile Page**       | HTML & CSS                  |
+| 💼 **Portfolio**          | HTML & CSS                  |
+| ✅ **ToDo List**           | HTML, CSS & JavaScript      |
+| 📚 **Library Project**    | HTML & CSS                  |
+| 🚀 **API Break Project**  | HTML, CSS, JavaScript & API |
+
 
 🔗 **All my college mini projects:**
 [**Collage_mini_Projects →**](https://github.com/Deepanshuchauhan716/Collage_mini_Projects)
