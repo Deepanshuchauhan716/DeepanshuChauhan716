@@ -65,23 +65,6 @@ My goal is to become a **good software developer** by improving my fundamentals,
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshuchauhan716&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshuchauhan716&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🐍 My Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deepanshuchauhan716/Deepanshuchauhan716/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌱 One Step at a Time
 
 I'm still learning, experimenting and improving every day.
