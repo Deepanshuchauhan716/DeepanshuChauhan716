@@ -1,8 +1,5 @@
 # 👋 Hey, I'm Deepanshu
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeepanshuChauhan716&label=Total%20Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ### 🎓 BCA 3rd Semester Student | 💻 Aspiring Developer
 
