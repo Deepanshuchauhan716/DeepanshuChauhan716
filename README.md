@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Deepanshu
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeepanshuChauhan716&label=Total%20Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ### 🎓 BCA 3rd Semester Student | 💻 Aspiring Developer
 
 I'm a BCA student who enjoys **learning by building projects** and understanding how things work through code.
@@ -10,13 +14,13 @@ Currently, I'm learning **HTML, CSS, C++ & React.js**, while practicing **JavaSc
 
 ## 🧑‍💻 About Me
 
-* 🎓 BCA 3rd Semester Student
-* 🌐 Currently learning Web Development
-* 💻 Learning C++
-* ⚛️ Learning React.js
-* 🧠 Working on Data Structures & Algorithms
-* 🔧 Using Git & GitHub for my projects
-* 🚀 I learn best by building things
+- 🎓 BCA 3rd Semester Student
+- 🌐 Currently learning Web Development
+- 💻 Learning C++
+- ⚛️ Learning React.js
+- 🧠 Working on Data Structures & Algorithms
+- 🔧 Using Git & GitHub for my projects
+- 🚀 I learn best by building things
 
 ---
 
@@ -61,8 +65,8 @@ My goal is to become a **good software developer** by improving my fundamentals,
 
 ## 💡 My Mindset
 
-> **Don't try to learn everything at once.  
-> Learn something → Build something → Make mistakes → Fix them → Repeat.**
+> **Don't try to learn everything at once.**
+> **Learn something → Build something → Make mistakes → Fix them → Repeat.**
 
 ---
 
@@ -77,7 +81,7 @@ I'm still learning, experimenting and improving every day.
 ## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshuchauhan716&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepanshuChauhan716&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
