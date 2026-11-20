@@ -4,7 +4,7 @@
 
 I'm a BCA student who enjoys **learning by building projects** and understanding how things work through code.
 
-Currently, I'm learning **HTML, CSS & C++**, while practicing **JavaScript, DSA, Git and GitHub**.
+Currently, I'm learning **HTML, CSS, C++ & React.js**, while practicing **JavaScript, DSA, Git and GitHub**.
 
 ---
 
@@ -13,7 +13,7 @@ Currently, I'm learning **HTML, CSS & C++**, while practicing **JavaScript, DSA,
 * 🎓 BCA 3rd Semester Student
 * 🌐 Currently learning Web Development
 * 💻 Learning C++
-* ⚡ Practicing JavaScript & React
+* ⚛️ Learning React.js
 * 🧠 Working on Data Structures & Algorithms
 * 🔧 Using Git & GitHub for my projects
 * 🚀 I learn best by building things
@@ -23,7 +23,7 @@ Currently, I'm learning **HTML, CSS & C++**, while practicing **JavaScript, DSA,
 ## 🛠️ Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,react" />
 </p>
 
 ---
@@ -39,6 +39,7 @@ Here are some of the projects I've built while learning:
 ```text
 HTML & CSS          ███████████████░░░
 JavaScript          ███████████░░░░░░░
+React.js            ██░░░░░░░░░░░░░░░░
 C++                 ███████████░░░░░░░
 DSA                 ██████████░░░░░░░░
 Git & GitHub        █████████████░░░░░
@@ -54,13 +55,13 @@ My goal is to become a **good software developer** by improving my fundamentals,
 
 ### My Learning Journey
 
-**HTML → CSS → JavaScript → C++ → DSA → More Projects 🚀**
+**HTML → CSS → JavaScript → React.js → C++ → DSA → More Projects 🚀**
 
 ---
 
 ## 💡 My Mindset
 
-> **Don't try to learn everything at once.
+> **Don't try to learn everything at once.  
 > Learn something → Build something → Make mistakes → Fix them → Repeat.**
 
 ---
