@@ -74,6 +74,14 @@ I'm still learning, experimenting and improving every day.
 
 ---
 
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshuchauhan716&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
 <p align="center">
   <b>Thanks for visiting my profile! ❤️</b>
 </p>
